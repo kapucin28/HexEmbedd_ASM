@@ -1,3 +1,4 @@
+# Author: Remus Flavius TIMBULI
 # Assemble programs in one step
 
                 ############   RELEASE DIRECTORY CLEANUP   ############
