@@ -9,7 +9,7 @@ For step-by-step instructions follow this link:
 To be able to use this script you will need to download first the next package:
  - sudo apt-get install nasm
  
-Direct download command of the script: curl -o HexEmbedd_ASM https://raw.githubusercontent.com/kapucin28/HexEmbedd_ASM/master/HexEmbedd_ASM.sh                                           
+Direct download command of the script: curl -o HexEmbedd_ASM.sh https://raw.githubusercontent.com/kapucin28/HexEmbedd_ASM/master/HexEmbedd_ASM.sh                                           
 IMPORTANT! Download or copy the file in the project directory, not somewhere else!
 
 The .sh file will do the following:
