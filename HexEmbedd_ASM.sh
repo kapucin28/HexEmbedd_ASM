@@ -4,11 +4,9 @@
                 ############   RELEASE DIRECTORY CLEANUP   ############
 
 if [ !Release/ ]; then
-  mkdir -m 755 Release
-else
   rm -r Release/
-  mkdir -m 755 Release
 fi
+mkdir -m 755 Release
 
 
                 ################   WORKING DIRECTORY   ################
